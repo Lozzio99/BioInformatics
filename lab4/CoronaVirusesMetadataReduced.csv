@@ -1,0 +1,8 @@
+Strain,Clade,country,host,url,virus type,Author,Accession,Labels
+bat_SL_CoVZXC21,,China,Bat,,SARS-like CoV,Hu et al A,MG772934,ChinaBatSARS-like CoV
+Wuhan/WIV05/2019,SARS-CoV-2,China,Human,,SARS-CoV-2,Zhou et al,MN996529,ChinaHumanSARS-CoV-2
+Rs4231,,China,Bat,,SARS-like CoV,Hu et al B,KY417146,ChinaBatSARS-like CoVb
+civet007,SARS-CoV,China,Civet,,SARS-CoV,Wang et al A,AY572034,ChinaCivetSARS-CoV
+GZ0402,SARS-CoV,China,Human,,SARS-CoV,Song et al,AY613947,ChinaHumanSARS-CoV
+Sin852,SARS-CoV,Singapore,Human,,SARS-CoV,Vega et al,AY559082,SingaporeHumanSARS-CoV
+TWS,SARS-CoV,Taiwan,Human,,SARS-CoV,Shu et al B,AP006560,TaiwanHumanSARS-CoV
